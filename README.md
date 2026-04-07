@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV3bmhnMmM5YnluOGEyZHQwcjUzeXYyN3Q1NXpvejh5M2ZpMXc0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif" width="50%" />
+</p>
+
+<h1 align="center">⚡ SYSTEM BREACH INITIATED ⚡</h1>
+<p align="center">🔒 Ethical Hacker | Penetration Tester | Security Analyst</p>
+
+
+
+
 # 👨‍💻 Abdul Rafay Sajid Qadri  
 
 💻 **Cybersecurity Enthusiast | Penetration Tester | Security Analyst**  
