@@ -1,119 +1,140 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV3bmhnMmM5YnluOGEyZHQwcjUzeXYyN3Q1NXpvejh5M2ZpMXc0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif" width="50%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV3bmhnMmM5YnluOGEyZHQwcjUzeXYyN3Q1NXpvejh5M2ZpMXc0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif" width="55%" />
 </p>
 
-<h1 align="center">⚡ SYSTEM BREACH INITIATED ⚡</h1>
-<p align="center">🔒 Ethical Hacker | Penetration Tester | Security Analyst</p>
+<h1 align="center">Abdul Rafay Sajid Qadri</h1>
+<h3 align="center">🔒 Cybersecurity Enthusiast | Penetration Tester | Security Analyst</h3>
 
-
-
-
-# 👨‍💻 Abdul Rafay Sajid Qadri  
-
-💻 **Cybersecurity Enthusiast | Penetration Tester | Security Analyst**  
-🔒 Passionate about Ethical Hacking & Securing Real-World Systems  
+<p align="center">
+  <i>Offensive security mindset with a defensive approach.</i>
+</p>
 
 ---
 
 ## 🧑‍💫 About Me  
-I am a cybersecurity-focused individual with a strong foundation in **software development and system architecture**. I specialize in identifying vulnerabilities, understanding attack vectors, and implementing secure solutions.
 
-🚀 Currently building hands-on experience with:  
-- Network Security  
-- Penetration Testing  
-- Ethical Hacking Tools  
+Cybersecurity-focused individual with a strong base in software engineering and system architecture.  
+Experienced in identifying vulnerabilities, analyzing attack vectors, and implementing secure solutions.
 
-💡 I love turning vulnerabilities into learning opportunities and secure systems.
+🎯 **Career Goal:** Become a professional Penetration Tester / Security Analyst  
 
 ---
 
-## ⚡ Tech Stack  
+## 🚀 Current Focus  
+
+- Advanced Penetration Testing Techniques  
+- Web Application Security (OWASP Top 10 Deep Dive)  
+- Network Exploitation & Privilege Escalation  
+- Real-world Labs (CTFs & Vulnerable Machines)  
+
+---
+
+## ⚡ Technical Expertise  
 
 ### 🔐 Cybersecurity Tools  
-- Nmap  
-- Wireshark  
-- Burp Suite (Basic)  
-- Metasploit Framework  
-- SNORT (IDS/IPS)  
-- Kali Linux  
+`Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `SNORT` • `Kali Linux`  
 
-### 🧠 Security Concepts  
-- Network Scanning & Enumeration  
+### 🧠 Security Domains  
 - Vulnerability Assessment  
-- Penetration Testing (Basic → Advanced)  
-- Web Security (OWASP Top 10)  
-- Firewall & IDS/IPS  
+- Network Scanning & Enumeration  
+- Web Application Security  
+- Penetration Testing (Basic → Intermediate)  
+- IDS/IPS & Firewall Fundamentals  
 
-### 💻 Programming / Tools  
-- Python (Automation Scripting)  
-- Bash (Linux)  
-- Git & GitHub  
-- Linux (Ubuntu / Kali)  
+### 💻 Development & Scripting  
+`Python` • `Bash` • `Git` • `Linux (Ubuntu/Kali)`  
 
 ---
 
-## 💼 Experience  
+## 💼 Professional Experience  
 
 ### 🔹 Cybersecurity Intern — Developer Hub  
-📅 *Oct 2025*  
+📅 October 2025  
 
-- 🔍 Identified **SQL Injection & XSS vulnerabilities** in OWASP Juice Shop using OWASP ZAP  
-- 🛡️ Implemented secure solutions using:  
-  - validator.js (input sanitization)  
-  - bcrypt (password hashing)  
-- 🔐 Strengthened security using:  
-  - Helmet.js (secure headers)  
-  - JWT (authentication)  
-- 📊 Performed penetration testing using **Nmap**  
-- 📈 Integrated **Winston logging** for real-time monitoring  
+- Identified **SQLi & XSS vulnerabilities** in OWASP Juice Shop  
+- Performed vulnerability scanning using **OWASP ZAP**  
+- Applied secure coding practices (`bcrypt`, `validator.js`)  
+- Implemented security enhancements (`Helmet.js`, `JWT`)  
+- Conducted **network scanning & recon** using Nmap  
+- Integrated logging system using **Winston**  
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects  
 
 ### 🔐 WiFi Security Testing Toolkit  
-- Built a toolkit for **learning network security in lab environments**  
-- Performed **network scanning & analysis**  
-- Practiced real-world penetration testing concepts  
+- Built for controlled **network penetration testing practice**  
+- Performed scanning, traffic analysis, and vulnerability detection  
 
 ---
 
-### ⌨️ Keylogger (Educational Purpose)  
-- Developed a simple keylogger to understand **system monitoring risks**  
-- Learned how malware works & how to defend against it  
-- Focused on **ethical awareness & cybersecurity defense**
+### ⌨️ Keylogger (Educational)  
+- Demonstrates **system monitoring risks & malware behavior**  
+- Built for cybersecurity awareness and defensive learning  
+
+---
+
+## 📜 Certifications  
+
+- Cisco Certified Ethical Hacker (Completed)  
+- [Add more certifications here]
+
+---
+
+## 🧠 Labs & Platforms  
+
+- TryHackMe (In Progress)  
+- Hack The Box (Planned)  
+- VulnHub Machines Practice  
+
+---
+
+## 🛡️ Security Philosophy  
+
+> "Understand how systems break, to build systems that never do."
+
+- Ethical hacking mindset  
+- Responsible disclosure  
+- Continuous learning & adaptation  
 
 ---
 
 ## 🎓 Education  
 
-🎓 **Bachelor of Software Engineering**  
+🎓 Bachelor of Software Engineering  
 🏫 HITEC University  
 📅 2023 – 2027  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaaduHeck&theme=dark&hide_border=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WaaduHeck&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WaaduHeck&layout=compact&theme=dark)
-
----
-
-## 📫 Contact Me  
-
-📧 rafaysajid49@gmail.com  
-📱 +92 370 5071214  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WaaduHeck&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaaduHeck&theme=dark&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## ⚡ Coding Vibes  
+## 🌐 Connect With Me  
 
-![Hacker GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+- 📧 Email: rafaysajid49@gmail.com  
+- 📱 Phone: +92 370 5071214  
+- 💼 LinkedIn: [Add your LinkedIn here]  
+- 🧠 TryHackMe: [Add profile link]  
+
+---
+
+## ⚡ Coding Environment  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
+</p>
 
 ---
 
 ## 👀 Profile Views  
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=WaaduHeck&icon=0&color=0)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=WaaduHeck&icon=0&color=0" />
+</p>
